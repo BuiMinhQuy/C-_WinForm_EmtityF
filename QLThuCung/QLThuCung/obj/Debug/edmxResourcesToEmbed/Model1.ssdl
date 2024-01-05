@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLTCModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ThuCung">
+    <Key>
+      <PropertyRef Name="MaDon" />
+    </Key>
+    <Property Name="MaDon" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="TenThuCung" Type="nvarchar" MaxLength="20" />
+    <Property Name="ChungLoai" Type="nvarchar" MaxLength="20" />
+    <Property Name="CanNang" Type="int" />
+    <Property Name="NgayNhan" Type="date" />
+    <Property Name="TinhTrang" Type="nvarchar" MaxLength="20" />
+    <Property Name="DichVu" Type="nvarchar" MaxLength="20" />
+    <Property Name="SoNgay" Type="int" />
+    <Property Name="ChiPhiThuoc" Type="float" />
+    <Property Name="TongChiPhi" Type="float" />
+  </EntityType>
+  <EntityContainer Name="QLTCModelStoreContainer">
+    <EntitySet Name="ThuCung" EntityType="Self.ThuCung" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

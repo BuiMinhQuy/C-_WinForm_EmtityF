@@ -1,0 +1,16 @@
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\bin\Debug\QLThuCung.exe.config
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\bin\Debug\QLThuCung.exe
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\bin\Debug\QLThuCung.pdb
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\bin\Debug\EntityFramework.dll
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\bin\Debug\EntityFramework.xml
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\obj\Debug\QLThuCung.csproj.AssemblyReference.cache
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\obj\Debug\QLThuCung.Form1.resources
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\obj\Debug\QLThuCung.Properties.Resources.resources
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\obj\Debug\QLThuCung.csproj.GenerateResource.cache
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\obj\Debug\QLThuCung.csproj.CoreCompileInputs.cache
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\obj\Debug\QLThuCung.csproj.CopyComplete
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\obj\Debug\QLThuCung.exe
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\obj\Debug\QLThuCung.pdb
+D:\UTC2 _ University\Code\C#_WinForm\QLThuCung\QLThuCung\obj\Debug\QLThuCung.csproj.ResolveComReference.cache

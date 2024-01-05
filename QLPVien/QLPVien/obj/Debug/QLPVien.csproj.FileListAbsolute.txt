@@ -1,0 +1,16 @@
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\bin\Debug\QLPVien.exe.config
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\bin\Debug\QLPVien.exe
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\bin\Debug\QLPVien.pdb
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\bin\Debug\EntityFramework.dll
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\bin\Debug\EntityFramework.xml
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\obj\Debug\QLPVien.csproj.AssemblyReference.cache
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\obj\Debug\QLPVien.Form1.resources
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\obj\Debug\QLPVien.Properties.Resources.resources
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\obj\Debug\QLPVien.csproj.GenerateResource.cache
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\obj\Debug\QLPVien.csproj.CoreCompileInputs.cache
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\obj\Debug\QLPVien.csproj.CopyComplete
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\obj\Debug\QLPVien.exe
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\obj\Debug\QLPVien.pdb
+D:\UTC2 _ University\Code\C#_WinForm\QLPVien\QLPVien\obj\Debug\QLPVien.csproj.ResolveComReference.cache

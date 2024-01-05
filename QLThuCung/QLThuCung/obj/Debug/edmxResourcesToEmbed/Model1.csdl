@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLTCModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="ThuCung">
+    <Key>
+      <PropertyRef Name="MaDon" />
+    </Key>
+    <Property Name="MaDon" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TenThuCung" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="ChungLoai" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="CanNang" Type="Int32" />
+    <Property Name="NgayNhan" Type="DateTime" Precision="0" />
+    <Property Name="TinhTrang" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="DichVu" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="SoNgay" Type="Int32" />
+    <Property Name="ChiPhiThuoc" Type="Double" />
+    <Property Name="TongChiPhi" Type="Double" />
+  </EntityType>
+  <EntityContainer Name="QLTCEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ThuCungs" EntityType="Self.ThuCung" />
+  </EntityContainer>
+</Schema>
